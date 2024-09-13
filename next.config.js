@@ -2,6 +2,5 @@
 const nextConfig = {}
 
 module.exports = {
-  pageExtensions: ['js', 'jsx', 'ts', 'tsx'],
-  basePath: '/src',
+  pageExtensions: ['/src']
 };
